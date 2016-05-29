@@ -1,0 +1,10 @@
+C:\Users\Arlindo\documents\visual studio 2015\Projects\AcessibilidadeRest\Dados\bin\Release\Dados.dll
+C:\Users\Arlindo\documents\visual studio 2015\Projects\AcessibilidadeRest\Dados\bin\Release\Dados.pdb
+C:\Users\Arlindo\documents\visual studio 2015\Projects\AcessibilidadeRest\Dados\bin\Release\Dapper.dll
+C:\Users\Arlindo\documents\visual studio 2015\Projects\AcessibilidadeRest\Dados\bin\Release\Grafo.dll
+C:\Users\Arlindo\documents\visual studio 2015\Projects\AcessibilidadeRest\Dados\bin\Release\Grafo.pdb
+C:\Users\Arlindo\documents\visual studio 2015\Projects\AcessibilidadeRest\Dados\bin\Release\Dapper.pdb
+C:\Users\Arlindo\documents\visual studio 2015\Projects\AcessibilidadeRest\Dados\bin\Release\Dapper.xml
+C:\Users\Arlindo\documents\visual studio 2015\Projects\AcessibilidadeRest\Dados\obj\Release\Dados.csprojResolveAssemblyReference.cache
+C:\Users\Arlindo\documents\visual studio 2015\Projects\AcessibilidadeRest\Dados\obj\Release\Dados.dll
+C:\Users\Arlindo\documents\visual studio 2015\Projects\AcessibilidadeRest\Dados\obj\Release\Dados.pdb

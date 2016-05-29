@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Paths>
+  <Jars></Jars>
+  <ResolvedResourceDirectories>
+    <ResolvedResourceDirectory>C:\Users\Arlindo\Documents\Projects\testeBluetooth2\testeBluetooth2\obj\Debug\__library_projects__\ServiceStack.Pcl.Android\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Arlindo\Documents\Projects\testeBluetooth2\testeBluetooth2\obj\Debug\__library_projects__\Xamarin.Android.Support.v4\library_project_imports\res</ResolvedResourceDirectory>
+    <ResolvedResourceDirectory>C:\Users\Arlindo\Documents\Projects\testeBluetooth2\testeBluetooth2\obj\Debug\__library_projects__\Xamarin.Insights\library_project_imports\res</ResolvedResourceDirectory>
+  </ResolvedResourceDirectories>
+  <ResolvedAssetDirectories>
+    <ResolvedAssetDirectory>C:\Users\Arlindo\Documents\Projects\testeBluetooth2\testeBluetooth2\obj\Debug\__library_projects__\ServiceStack.Pcl.Android\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>C:\Users\Arlindo\Documents\Projects\testeBluetooth2\testeBluetooth2\obj\Debug\__library_projects__\Xamarin.Android.Support.v4\library_project_imports\assets</ResolvedAssetDirectory>
+    <ResolvedAssetDirectory>C:\Users\Arlindo\Documents\Projects\testeBluetooth2\testeBluetooth2\obj\Debug\__library_projects__\Xamarin.Insights\library_project_imports\assets</ResolvedAssetDirectory>
+  </ResolvedAssetDirectories>
+  <ResolvedEnvironmentFiles />
+  <ResolvedResourceDirectoryStamps>
+    <ResolvedResourceDirectoryStamp>C:\Users\Arlindo\Documents\Projects\testeBluetooth2\testeBluetooth2\obj\Debug\__library_projects__\ServiceStack.Pcl.Android.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Arlindo\Documents\Projects\testeBluetooth2\testeBluetooth2\obj\Debug\__library_projects__\Xamarin.Android.Support.v4.stamp</ResolvedResourceDirectoryStamp>
+    <ResolvedResourceDirectoryStamp>C:\Users\Arlindo\Documents\Projects\testeBluetooth2\testeBluetooth2\obj\Debug\__library_projects__\Xamarin.Insights.stamp</ResolvedResourceDirectoryStamp>
+  </ResolvedResourceDirectoryStamps>
+</Paths>

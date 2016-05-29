@@ -1,0 +1,12 @@
+C:\Users\Arlindo\documents\visual studio 2015\Projects\AcessibilidadeRest\Negocio\bin\Debug\Negocio.dll
+C:\Users\Arlindo\documents\visual studio 2015\Projects\AcessibilidadeRest\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Arlindo\documents\visual studio 2015\Projects\AcessibilidadeRest\Negocio\bin\Debug\Dados.dll
+C:\Users\Arlindo\documents\visual studio 2015\Projects\AcessibilidadeRest\Negocio\bin\Debug\Grafo.dll
+C:\Users\Arlindo\documents\visual studio 2015\Projects\AcessibilidadeRest\Negocio\bin\Debug\Dapper.dll
+C:\Users\Arlindo\documents\visual studio 2015\Projects\AcessibilidadeRest\Negocio\bin\Debug\Dados.pdb
+C:\Users\Arlindo\documents\visual studio 2015\Projects\AcessibilidadeRest\Negocio\bin\Debug\Grafo.pdb
+C:\Users\Arlindo\documents\visual studio 2015\Projects\AcessibilidadeRest\Negocio\bin\Debug\Dapper.pdb
+C:\Users\Arlindo\documents\visual studio 2015\Projects\AcessibilidadeRest\Negocio\bin\Debug\Dapper.xml
+C:\Users\Arlindo\documents\visual studio 2015\Projects\AcessibilidadeRest\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\Arlindo\documents\visual studio 2015\Projects\AcessibilidadeRest\Negocio\obj\Debug\Negocio.dll
+C:\Users\Arlindo\documents\visual studio 2015\Projects\AcessibilidadeRest\Negocio\obj\Debug\Negocio.pdb

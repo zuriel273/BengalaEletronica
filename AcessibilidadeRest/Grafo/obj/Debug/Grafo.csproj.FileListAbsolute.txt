@@ -1,0 +1,4 @@
+C:\Users\Arlindo\documents\visual studio 2015\Projects\AcessibilidadeRest\Grafo\bin\Debug\Grafo.dll
+C:\Users\Arlindo\documents\visual studio 2015\Projects\AcessibilidadeRest\Grafo\bin\Debug\Grafo.pdb
+C:\Users\Arlindo\documents\visual studio 2015\Projects\AcessibilidadeRest\Grafo\obj\Debug\Grafo.dll
+C:\Users\Arlindo\documents\visual studio 2015\Projects\AcessibilidadeRest\Grafo\obj\Debug\Grafo.pdb
